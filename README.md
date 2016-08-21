@@ -1,7 +1,7 @@
 EICAR Anti-Malware Testfile
 ===========================
 
-Let's see if GitHub has any antivirus software!
+Let's see if GitHub has any antivirus software! (Signs point to 'no'.)
 
 `eicar.com` is a small DOS program to test anti-virus software. It is not
 dangerous, but antivirus/antimalware software should detect it as a virus, and
